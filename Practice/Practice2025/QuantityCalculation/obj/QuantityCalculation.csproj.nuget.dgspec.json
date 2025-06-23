@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\QuantityCalculation\\QuantityCalculation.csproj": {}
+    "C:\\Users\\kiril\\Source\\Repos\\Practice2025\\Practice\\Practice2025\\QuantityCalculation\\QuantityCalculation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\QuantityCalculation\\QuantityCalculation.csproj": {
+    "C:\\Users\\kiril\\Source\\Repos\\Practice2025\\Practice\\Practice2025\\QuantityCalculation\\QuantityCalculation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\QuantityCalculation\\QuantityCalculation.csproj",
+        "projectUniqueName": "C:\\Users\\kiril\\Source\\Repos\\Practice2025\\Practice\\Practice2025\\QuantityCalculation\\QuantityCalculation.csproj",
         "projectName": "QuantityCalculation",
-        "projectPath": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\QuantityCalculation\\QuantityCalculation.csproj",
+        "projectPath": "C:\\Users\\kiril\\Source\\Repos\\Practice2025\\Practice\\Practice2025\\QuantityCalculation\\QuantityCalculation.csproj",
         "packagesPath": "C:\\Users\\kiril\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\QuantityCalculation\\obj\\",
         "projectStyle": "PackageReference",

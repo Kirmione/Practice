@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kiril\\source\\repos\\Practice\\Practice2025\\PriceCalculation\\PriceCalculation.csproj": {}
+    "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\PriceCalculation\\PriceCalculation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kiril\\source\\repos\\Practice\\Practice2025\\PriceCalculation\\PriceCalculation.csproj": {
+    "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\PriceCalculation\\PriceCalculation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kiril\\source\\repos\\Practice\\Practice2025\\PriceCalculation\\PriceCalculation.csproj",
+        "projectUniqueName": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\PriceCalculation\\PriceCalculation.csproj",
         "projectName": "PriceCalculation",
-        "projectPath": "C:\\Users\\kiril\\source\\repos\\Practice\\Practice2025\\PriceCalculation\\PriceCalculation.csproj",
+        "projectPath": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\PriceCalculation\\PriceCalculation.csproj",
         "packagesPath": "C:\\Users\\kiril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kiril\\source\\repos\\Practice\\Practice2025\\PriceCalculation\\obj\\",
+        "outputPath": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\PriceCalculation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

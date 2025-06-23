@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FeedHandler
-build_property.ProjectDir = C:\Users\kiril\source\repos\Practice\Practice2025\FeedHandler\
+build_property.ProjectDir = C:\Users\kiril\source\repos\Practice2025\Practice\Practice2025\FeedHandler\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

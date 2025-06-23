@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuantityCalculation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49bbf8a02fcaa0fdcb024a0e53ba7de3323501cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuantityCalculation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuantityCalculation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51EFF622-C6E1-4E39-BCB5-DEE99A4E5909}|FeedHandler\\FeedHandler.csproj|c:\\users\\kiril\\source\\repos\\practice2025\\practice\\practice2025\\feedhandler\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EFF622-C6E1-4E39-BCB5-DEE99A4E5909}|FeedHandler\\FeedHandler.csproj|solutionrelative:feedhandler\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EFF622-C6E1-4E39-BCB5-DEE99A4E5909}|FeedHandler\\FeedHandler.csproj|c:\\users\\kiril\\source\\repos\\practice2025\\practice\\practice2025\\feedhandler\\tsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51EFF622-C6E1-4E39-BCB5-DEE99A4E5909}|FeedHandler\\FeedHandler.csproj|solutionrelative:feedhandler\\tsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EFF622-C6E1-4E39-BCB5-DEE99A4E5909}|FeedHandler\\FeedHandler.csproj|c:\\users\\kiril\\source\\repos\\practice2025\\practice\\practice2025\\feedhandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EFF622-C6E1-4E39-BCB5-DEE99A4E5909}|FeedHandler\\FeedHandler.csproj|solutionrelative:feedhandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EFF622-C6E1-4E39-BCB5-DEE99A4E5909}|FeedHandler\\FeedHandler.csproj|c:\\users\\kiril\\source\\repos\\practice2025\\practice\\practice2025\\feedhandler\\filewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EFF622-C6E1-4E39-BCB5-DEE99A4E5909}|FeedHandler\\FeedHandler.csproj|solutionrelative:feedhandler\\filewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileWatcher.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\FeedHandler\\FileWatcher.cs",
+              "RelativeDocumentMoniker": "FeedHandler\\FileWatcher.cs",
+              "ToolTip": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\FeedHandler\\FileWatcher.cs",
+              "RelativeToolTip": "FeedHandler\\FileWatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:05:26.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\FeedHandler\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "FeedHandler\\RabbitMQService.cs",
+              "ToolTip": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\FeedHandler\\RabbitMQService.cs",
+              "RelativeToolTip": "FeedHandler\\RabbitMQService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAewB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:04:15.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\FeedHandler\\Program.cs",
+              "RelativeDocumentMoniker": "FeedHandler\\Program.cs",
+              "ToolTip": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\FeedHandler\\Program.cs",
+              "RelativeToolTip": "FeedHandler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:06:01.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tsconfig1.json",
+              "DocumentMoniker": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\FeedHandler\\tsconfig1.json",
+              "RelativeDocumentMoniker": "FeedHandler\\tsconfig1.json",
+              "ToolTip": "C:\\Users\\kiril\\source\\repos\\Practice2025\\Practice\\Practice2025\\FeedHandler\\tsconfig1.json",
+              "RelativeToolTip": "FeedHandler\\tsconfig1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T07:02:40.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
